@@ -3,7 +3,7 @@
 ## Deployment URL
 
 ```
-url: https://rdysetshine.github.io/Scheduled-Mayhem/
+url:https://rdysetshine.github.io/Scheduled-Mayhem/
 ```
 
 ## Mock Up
