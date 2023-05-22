@@ -2,9 +2,7 @@
 
 ## Deployment URL
 
-```
 https://rdysetshine.github.io/Scheduled-Mayhem/
-```
 
 ## Mock Up
 
