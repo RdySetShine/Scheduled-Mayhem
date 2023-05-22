@@ -15,8 +15,8 @@ url:
 ```md
 - Created a Sweet Schedular that diplays the current Day.
 - The user is presented with Standardized Business hour time blocks from 9am-5am.
-- Anything input in the time blocks and saved will persist when the page is refreshed.
-- The Hours being Displayed will be represented as Gray for past, Red for current and Green for futur.
+- Anything input in the time blocks then saved will persist after the page is refreshed.
+- The Hours being Displayed will be represented as Gray for past, Red for current, Green for futur.
 ```
 
 ## Contributors
